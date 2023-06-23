@@ -1,0 +1,15 @@
+1: test
+2-7: Cosine
+8: Pearson
+9-10: PearsonInverse
+11: PearsonCase
+12: PearsonInverse
+13: PearsonCase
+14: Pearson
+15: ItemBased
+16-20: PearsonInverse
+21: Custom	`
+22: PearsonInverse
+23-25: Cosine
+26: Pearson
+27: PearsonInverse
